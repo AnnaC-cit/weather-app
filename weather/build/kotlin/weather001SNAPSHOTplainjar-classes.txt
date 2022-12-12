@@ -1,0 +1,1 @@
+/home/annac/Projetos/Projetinhos/weather/build/classes/kotlin/main/com/api/weather/WeatherApplication.class:/home/annac/Projetos/Projetinhos/weather/build/classes/kotlin/main/com/api/weather/WeatherApplicationKt.class:/home/annac/Projetos/Projetinhos/weather/build/classes/kotlin/main/com/api/weather/WeatherController.class
